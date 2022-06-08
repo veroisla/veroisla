@@ -4,7 +4,7 @@
 
 <p> Programadora Front-end y Trabajadora Social</p>
 <p> Después de trabajar en el mundo social, me enfrento a un nuevo reto, trabajar en el mundo tecnológico.</p>
-<p> <strong>Mi ilusión:</strong> Unificar ambas disciplinas y poder generar un impacto social o ambiental.<p>
+<p> ✨<strong>Mi ilusión:</strong> Unificar ambas disciplinas y poder generar un impacto social o ambiental.<p>
 
 - 👨‍💻 All of my projects are available at
   [https://github.com/veroisla](https://github.com/veroisla)
