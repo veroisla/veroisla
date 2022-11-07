@@ -6,8 +6,8 @@
 <p> Después de trabajar en el mundo social, me enfrento a un nuevo reto, trabajar en el mundo tecnológico.</p>
 <p> ✨<strong>Mi ilusión:</strong> Unificar ambas disciplinas y poder generar un impacto social o ambiental.<p>
 
-- 👨‍💻 All of my projects are available at
-  [https://github.com/veroisla](https://github.com/veroisla)
+- 👨‍💻 Get to know me, visit my portfolio!
+  https://veroisla.github.io/Portfolio/#/
 
 - 📫 How to reach me **veroislagleaniz@gmail.com**
 
